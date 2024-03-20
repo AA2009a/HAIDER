@@ -1,3 +1,3 @@
-git Remote https://github.com/AA2009a/HAIDER.git
- git Branch -M main 
-git Push -u Origin main
+git clone https://github.com/LF313/VIP4
+cd VIP4
+python 【﻿VIP 1】-Enc.py
