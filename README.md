@@ -1,3 +1,3 @@
-git clone https://github.com/LF313/VIP4
+git clone https://github.com/HAIDER/VIP4
 cd VIP4
-python 【﻿VIP 1】-Enc.py
+python 【﻿VIP 1】-FOX.py
